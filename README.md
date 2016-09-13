@@ -15,7 +15,7 @@ _This small application takes a user-input arabic number, and outputs it's equiv
 
 ## Known Bugs
 
-_There is no front-end whatsoever._
+_There are no known bugs._
 
 ## Support and contact details
 
